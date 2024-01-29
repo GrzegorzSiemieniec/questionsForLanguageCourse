@@ -1,0 +1,82 @@
+[
+    {
+      "question": "Jak nazwiemy mleko po angielsku?",
+      "answers": [
+        { "text": "Milk", "isCorrect": true },
+        { "text": "Water", "isCorrect": false },
+        { "text": "Juice", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Jak piszemy słowo mężczyzna w jęzuku Angielskim",
+      "answers": [
+        { "text": "Men", "isCorrect": false },
+        { "text": "Man", "isCorrect": true },
+        { "text": "Women", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Co znaczy 'Woman'",
+      "answers": [
+        { "text": "Kobieta", "isCorrect": true },
+        { "text": "Dziewczynka", "isCorrect": false },
+        { "text": "Kobiety", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Jak przetłuamczysz słowo 'herbata'",
+      "answers": [
+        { "text": "tea", "isCorrect": true },
+        { "text": "coffe", "isCorrect": false },
+        { "text": "apple", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answers": [
+        { "text": "Beijing", "isCorrect": false },
+        { "text": "Tokyo", "isCorrect": true },
+        { "text": "Seoul", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "answers": [
+        { "text": "Oxygen", "isCorrect": true },
+        { "text": "Gold", "isCorrect": false },
+        { "text": "Silver", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        { "text": "Pablo Picasso", "isCorrect": false },
+        { "text": "Leonardo da Vinci", "isCorrect": true },
+        { "text": "Vincent van Gogh", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answers": [
+        { "text": "Elephant", "isCorrect": false },
+        { "text": "Blue Whale", "isCorrect": true },
+        { "text": "Giraffe", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "In what year did World War II end?",
+      "answers": [
+        { "text": "1945", "isCorrect": true },
+        { "text": "1918", "isCorrect": false },
+        { "text": "1950", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answers": [
+        { "text": "Sydney", "isCorrect": false },
+        { "text": "Melbourne", "isCorrect": false },
+        { "text": "Canberra", "isCorrect": true }
+      ]
+    }
+]
